@@ -1,0 +1,17 @@
+/* ED utilization*/
+#utilPlot .legend .traces .legendtoggle {
+   display: none;
+}
+/* just for presentation: shows the default cursor insted of the text cursor */
+#utilPlot .legend .traces .legendtext {
+   cursor: default;
+}
+
+/* Census */
+#censusPlot .legend .traces .legendtoggle {
+   display: none;
+}
+/* just for presentation: shows the default cursor insted of the text cursor */
+#censusPlot .legend .traces .legendtext {
+   cursor: default;
+}
