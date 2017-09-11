@@ -4,7 +4,7 @@ library(tidyverse)
 library(magrittr)
 library(lubridate)
 
-result <- readRDS("data_shiny.rds") 
+result <- readRDS("data.rds") 
 
 gg_color_hue <- function(n) {
   hues = seq(15, 375, length = n + 1)

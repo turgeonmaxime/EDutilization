@@ -4,3 +4,5 @@ rsconnect/*
 .Rhistory
 .RData
 .Ruserdata
+scramble_data.R
+data_shiny.rds
